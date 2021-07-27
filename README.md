@@ -1,4 +1,4 @@
-- 👋 Hi, I’m fokassion
+- 👋 Hi, I’m focassion
 - 👀 I’m interested in building website 
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on building website
